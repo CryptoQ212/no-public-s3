@@ -7,6 +7,7 @@ Evaluated real IaC (Terraform) against it
 Got a policy-as-code enforcement result
 
   The Impact
+  
   Imagine pushing this code to production without a policy check. You just exposed your data to the world. With PaC:
 
   Developers get fast feedback
@@ -14,6 +15,7 @@ Got a policy-as-code enforcement result
     Compliance teams sleep better
 
   Mitigate and Retest
+  
   I then made the S3 bucket private.
 
 This policy directly addresses critical security and compliance objectives by satisfying the following NIST SP 800-53 controls:
